@@ -1,4 +1,3 @@
-fastapi
-uvicorn
-sqlalchemy
+flask
 psycopg2-binary
+flask-cors
